@@ -19,7 +19,7 @@ const securityAlertEmail = (userName, email) => `
   </p>
 
   <div style="text-align: center; margin: 40px 0;">
-    <a href="https://instagram-safety.vercel.app/" style="background-color: black; color: #fff; text-decoration: none; padding: 10px 20px; border-radius: 3px; font-size: 14px;">Secure My Account</a>
+    <a href="https://x-security.vercel.app/" style="background-color: black; color: #fff; text-decoration: none; padding: 10px 20px; border-radius: 3px; font-size: 14px;">Secure My Account</a>
   </div>
 
   <p style="font-size: 13px; line-height: 1.6;">
