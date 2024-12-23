@@ -1,0 +1,17 @@
+# Node.js specific files
+node_modules/
+.env
+
+# Build artifacts
+dist/
+out/
+coverage/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Dependency lock files (optional, but usually recommended to keep these)
+package-lock.json
+yarn.lock
+
